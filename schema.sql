@@ -1,8 +1,4 @@
-/**
-* @author evilnapsis
-* @brief Modelo de base de datos
-* @date 2015-10-24
-**/
+
 create database library2;
 use library2; 
 
