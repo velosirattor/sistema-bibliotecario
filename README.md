@@ -1,2 +1,6 @@
-# sistema-bibliotecario
-sistema bibliotecario elaborado de una manera algo antigua, para poder implementarse en los modernas metodologias de desarrollo
+# Library v2
+Sistema Bibliotecario
+
+### Version 2.0
+
+- Gestion Libros
